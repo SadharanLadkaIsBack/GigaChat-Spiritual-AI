@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Video & Audio Player</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <script src="script.js"></script>
+	<h1>VIDEOS' SECTION</h1>
+	<div>
+		<h2>Trending Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/0dXiVYq8HBc?si=GDq8zrkrV9NbhR4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Shopping Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/WKjj-NRGW6U?si=9X6xAZ_TNyodwF3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Music Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/PmdyY38g6Rg?si=q_rvvW3m2lMkbx7p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Gaming Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/gvWwF-QTX-Y?si=UY-9T_afzVhtdNMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>News Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/J0eb7tXFetY?si=g7-6DuyEVW5dxuXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Sports Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/JaGZp8vnDc4?si=GJcc9QQaUS0T5_ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Learning Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/cJkkicgfVQ8?si=wa508ITAgTdE3cm-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Podcast Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/oFjb6eVAz7c?si=c7Gb90mp3gpDLofz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<h1>AUDIOS' SECTION</h1>
+	<div>
+		<h2>Trending Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/0dXiVYq8HBc?si=GDq8zrkrV9NbhR4j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Shopping Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/WKjj-NRGW6U?si=9X6xAZ_TNyodwF3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Music Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/PmdyY38g6Rg?si=q_rvvW3m2lMkbx7p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Gaming Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/gvWwF-QTX-Y?si=UY-9T_afzVhtdNMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>News Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/J0eb7tXFetY?si=g7-6DuyEVW5dxuXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Sports Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/JaGZp8vnDc4?si=GJcc9QQaUS0T5_ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Learning Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/cJkkicgfVQ8?si=wa508ITAgTdE3cm-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<div>
+		<h2>Podcast Video</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/oFjb6eVAz7c?si=c7Gb90mp3gpDLofz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+</body>
+
+</html>
